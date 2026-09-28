@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Ali Belgacem
 
-**Software Engineering · AI/ML · Telecommunications · Network Research**
+**### Software Engineering · Artificial Intelligence · Intelligent Systems · Optimization · Emerging Technologies**
 
-I'm a software engineer and researcher working at the intersection of Cloud computing, software-defined networking (SDN), telecommunications, machine learning, and network simulation.
+I'm a software engineer and researcher interested in the design and development of innovative intelligent systems, combining software engineering, artificial intelligence, cloud computing, telecommunications, and networked systems.
 
-My work includes network experimentation with NS-3, SD-WAN, OpenFlow, programmable networks, and AI/ML-oriented networking research.
+My work explores AI-driven optimization, machine learning, deep and reinforcement learning, combinatorial optimization, metaheuristics, intelligent resource management, and large-scale system simulation.
 
+I am particularly interested in applying emerging technologies and computational intelligence to solve complex problems involving optimization, automation, resource allocation, decision-making, scalability, and performance across cloud, communication, and distributed systems.
+
+I am also open to exploring emerging and future technologies and methodologies, including Large Language Models (LLMs), generative AI, foundation models, autonomous AI systems, and other evolving approaches that can enable new solutions to complex real-world problems.
 
 ## 🚀 Selected Projects
 
