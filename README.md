@@ -41,8 +41,6 @@ An intelligent multi-agent reinforcement learning (MARL) model designed to dynam
 
 **Technologies:** `Python` · `PyTorch` · `MARL` · `Cloud Simulators`
 
-**Related Publication:**  
-- *Journal of King Saud University - Computer and Information Sciences* (2022)
 
 
 
@@ -109,7 +107,7 @@ A private/customized development project based around OFSwitch13, an OpenFlow 1.
 ## 🛠️ Technologies
 
 ### Programming
-`C++` · `Python` · `Bash` · `JavaScript`. `html`. `json`.`javascript`
+`C++` · `Python` · `Bash` · `JavaScript`. `html`. `json`.`JavaScript`
 
 ### Networking
 `SDN` · `SD-WAN` · `OpenFlow` · `QoS` · `TCP/IP`
