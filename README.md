@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ali Belgacem
 
-**### Software Engineering · Artificial Intelligence · Intelligent Systems · Optimization · Emerging Technologies**
+**Software Engineering · Artificial Intelligence · Intelligent Systems · Optimization · Emerging Technologies**
 
 I'm a software engineer and researcher interested in the design and development of innovative intelligent systems, combining software engineering, artificial intelligence, cloud computing, telecommunications, and networked systems.
 
