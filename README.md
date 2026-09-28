@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alibel
+# 👋 Hi, I'm Ali Belgacem
 
 **Software Engineering · AI/ML · Telecommunications · Network Research**
 
