@@ -19,11 +19,6 @@ A research implementation focusing on optimizing beamforming performance and min
 
 **Technologies:** `Python` · `PyTorch` · `Reinforcement Learning` · `6G Simulation`
 
-**Related Publications:**  
-- *IEEE Internet of Things Journal* (2025)
-- *International Conference on Machine Learning for Networking* (2024)
-
-
 ### ☁️ Cloud Dynamic Resource Allocation & Multi-Objective Scheduling
 
 **Cloud Computing · Metaheuristics · Symbiotic Organism Search · Multi-Objective GA**
@@ -33,11 +28,6 @@ An optimization suite and experimental framework for cloud dynamic resource allo
 **Focus:** Dynamic Resource Allocation · Task Scheduling · VM Placement · Metaheuristics
 
 **Technologies:** `Python` · `C++` · `CloudSim` · `SOS Algorithm` · `Micro-Genetic Algorithms`
-
-**Related Publications:**  
-- *Cluster Computing* (2022)
-- *IEEE Transactions on Cloud Computing* (2020)
-- *Computing* (2022)
 
 ---
 
