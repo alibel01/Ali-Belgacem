@@ -144,7 +144,7 @@ For private projects, this profile provides a high-level technical description w
 
 If you're interested in networking, SDN, SD-WAN, AI/ML, or research collaboration, feel free to connect.
 
-* **GitHub:** [@alibel01](https://github.com/alibel01)
+* **GitHub:** [@alibel01](https://github.com/alibel01/Ali Belgacem)
 
 
 ---
