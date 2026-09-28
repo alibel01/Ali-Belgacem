@@ -2,7 +2,7 @@
 
 **Software Engineering · AI/ML · Telecommunications · Network Research**
 
-I'm a software engineer and researcher working at the intersection of software-defined networking (SDN), telecommunications, machine learning, and network simulation.
+I'm a software engineer and researcher working at the intersection of Cloud computing, software-defined networking (SDN), telecommunications, machine learning, and network simulation.
 
 My work includes network experimentation with NS-3, SD-WAN, OpenFlow, programmable networks, and AI/ML-oriented networking research.
 
