@@ -61,7 +61,7 @@ An intelligent multi-agent reinforcement learning (MARL) model designed to dynam
 
 PADLAD is a software/research project currently under private development.
 
-* **Focus:** Research · Software Engineering · AI/ML · Networking
+* **Focus:** Research · Software Engineering 
 * **Status:** 🟢 Active development
 
 > 🔒 *Source code is private. Project details are shared here for portfolio purposes without exposing the implementation.*
