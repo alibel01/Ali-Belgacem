@@ -92,7 +92,6 @@ A private/customized development project based around OFSwitch13, an OpenFlow 1.
 > 🔒 *This repository contains private development work and is not publicly accessible.*
 
 ---
----
 
 ## 🧠 Areas of Interest
 
