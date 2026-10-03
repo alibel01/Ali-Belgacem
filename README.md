@@ -118,13 +118,13 @@ A private/customized development project based around OFSwitch13, an OpenFlow 1.
 `C++` · `Python` · `Bash` · `JavaScript`. `html`. `json`.`JavaScript`
 
 ### Networking
-`SDN` · `SD-WAN` · `OpenFlow` · `QoS` · `TCP/IP`.  `VMware` · `Docker`
+`SDN` · `SD-WAN` · `OpenFlow` · `QoS` · `TCP/IP`
 
 ### Simulation & Research
 `NS-3` · `Network Simulation` · `Experimental Evaluation`.`CloudSim` 
 
 ### Tools & Platforms
-`Linux` · `Git` · `GitHub` · `Docker`
+`Linux` · `Git` · `GitHub` · `Docker`.`VMware` 
  
  
 
