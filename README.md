@@ -1,16 +1,13 @@
-# 👋 Hi, I'm Ali Belgacem
+# Hi, I'm Ali Belgacem
 
 **Software Engineering · Artificial Intelligence · Intelligent Systems · Optimization · Emerging Technologies**
-
 I'm a software engineer and researcher interested in the design and development of innovative intelligent systems, combining software engineering, artificial intelligence, cloud computing, telecommunications, and networked systems.
-
 My work explores AI-driven optimization, machine learning, deep and reinforcement learning, combinatorial optimization, metaheuristics, intelligent resource management, and large-scale system simulation.
-
 I am particularly interested in applying emerging technologies and computational intelligence to solve complex problems involving optimization, automation, resource allocation, decision-making, scalability, and performance across cloud, communication, and distributed systems.
-
 I am also open to exploring emerging and future technologies and methodologies, including Large Language Models (LLMs), generative AI, foundation models, autonomous AI systems, and other evolving approaches that can enable new solutions to complex real-world problems.
 
-## 🚀 Selected Projects
+
+## Selected Projects
 
 ### 📡 6G-V2X Meta-RL Beamforming Optimization
 
@@ -66,9 +63,10 @@ A research-oriented project focused on Quality of Service (QoS) in Software-Defi
 
 * **Focus:** SD-WAN · QoS · Network Simulation · Networking Research
 * **Technologies:** C++ · NS-3 · SDN
-* 🔗 [Repository](#)
 
----
+
+> 🔒 *Source code is private. Project details are shared here for portfolio purposes without exposing the implementation.*
+
 
 ### 🌐 sdwan
 *Software-Defined Wide Area Networking*
@@ -77,9 +75,10 @@ A network simulation project focused on SD-WAN experimentation using NS-3. The p
 
 * **Focus:** SD-WAN · SDN · Network Simulation
 * **Technologies:** C++ · NS-3
-* 🔗 [Repository](#)
 
----
+
+> 🔒 *Source code is private. Project details are shared here for portfolio purposes without exposing the implementation.*
+
 
 ### 🔬 ofswitch13-private
 *OpenFlow · SDN · NS-3*
@@ -91,19 +90,24 @@ A private/customized development project based around OFSwitch13, an OpenFlow 1.
 
 > 🔒 *This repository contains private development work and is not publicly accessible.*
 
----
+
 
 ## 🧠 Areas of Interest
 
 * 📡 Software-Defined Networking (SDN)
 * 🌐 Software-Defined Wide Area Networking (SD-WAN)
-* 📊 Network Quality of Service (QoS)
+* 📊 Network Quality of Service (QoS) and resource allocation
 * 🤖 Machine Learning for Networking
 * 🔬 Network Simulation & Experimentation
 * 🔀 OpenFlow & Programmable Networks
 * 🧪 Research Prototyping
 * 🐧 Linux Networking
 * 💻 Software Engineering
+* · 5G/6G V2X communications
+* Multi-agent systems
+* Edge/cloud computing
+*  Metaheuristic optimization
+
 
 ---
 
@@ -113,40 +117,16 @@ A private/customized development project based around OFSwitch13, an OpenFlow 1.
 `C++` · `Python` · `Bash` · `JavaScript`. `html`. `json`.`JavaScript`
 
 ### Networking
-`SDN` · `SD-WAN` · `OpenFlow` · `QoS` · `TCP/IP`
+`SDN` · `SD-WAN` · `OpenFlow` · `QoS` · `TCP/IP`.  `VMware` · `Docker`
 
 ### Simulation & Research
 `NS-3` · `Network Simulation` · `Experimental Evaluation`.`CloudSim` 
 
 ### Tools & Platforms
 `Linux` · `Git` · `GitHub` · `Docker`
+ 
+ 
 
----
-
-## 📚 Research & Development
-
-My projects combine networking, simulation, and intelligent systems to investigate how programmable networks can be designed, evaluated, and improved.
-
-I am particularly interested in:
-* *How can software-defined and programmable networks be made more adaptive, measurable, and intelligent?*
-
----
-
-## 🔐 Private & Public Work
-
-Some of my projects are publicly available, while others remain private because they contain ongoing research, proprietary implementation, or development work. 
-
-For private projects, this profile provides a high-level technical description without exposing source code or confidential material.
-
----
-
-## 📫 Contact
-
-If you're interested in networking, SDN, SD-WAN, AI/ML, or research collaboration, feel free to connect.
-
-* **GitHub:** [@alibel01](https://github.com/alibel01/Ali-Belgacem)
+ 
 
 
----
-
-> ⭐ *Building, experimenting, and researching at the intersection of networks and intelligent systems.*
