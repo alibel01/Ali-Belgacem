@@ -19,6 +19,7 @@ A research implementation focusing on optimizing beamforming performance and min
 
 **Technologies:** `Python` · `PyTorch` · `Reinforcement Learning` · `6G Simulation`
 
+---
 ### ☁️ Cloud Dynamic Resource Allocation & Multi-Objective Scheduling
 
 **Cloud Computing · Metaheuristics · Symbiotic Organism Search · Multi-Objective GA**
@@ -41,7 +42,7 @@ An intelligent multi-agent reinforcement learning (MARL) model designed to dynam
 
 **Technologies:** `Python` · `PyTorch` · `MARL` · `Cloud Simulators`
 
-
+---
 
 
 ### 🔒 PADLAD
@@ -90,7 +91,8 @@ A private/customized development project based around OFSwitch13, an OpenFlow 1.
 
 > 🔒 *This repository contains private development work and is not publicly accessible.*
 
-
+---
+---
 
 ## 🧠 Areas of Interest
 
